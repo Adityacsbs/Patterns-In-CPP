@@ -3,6 +3,7 @@
 using namespace std;
  class pattern{
  public:
+
           
           void pattern1(int n){
              
