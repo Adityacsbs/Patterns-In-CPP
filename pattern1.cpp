@@ -15,7 +15,7 @@ class pattern{
         
     }
 
-
+//refer to 
 };
 int main (){
 
