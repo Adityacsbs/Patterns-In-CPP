@@ -16,6 +16,7 @@ class pattern{
             }
         cout<<endl;
         }
+
         
     }
     pattern2(int row){
