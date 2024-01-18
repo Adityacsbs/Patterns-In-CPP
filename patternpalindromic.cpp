@@ -11,7 +11,7 @@ using namespace std;
         int k;
          for( k=1;k<=n-i;k++){
             cout<<"  ";
-         }
+         }//
         int m=i;
         for(;k<=n;k++){
             cout<<m--<<" ";
