@@ -14,7 +14,7 @@ class pattern{
         }else{
             cout<<"0"<<" ";
         }
-    }
+    }//
     cout<<endl;
     
    }
